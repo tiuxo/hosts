@@ -437,7 +437,6 @@
 0.0.0.0 analytics.cocolog-nifty.com
 0.0.0.0 analytics.grupogodo.com
 0.0.0.0 analytics.qlook.net
-0.0.0.0 analyzer*.fc2.com
 0.0.0.0 analyzer.fc2.com
 0.0.0.0 analyzer2.fc2.com
 0.0.0.0 analyzer5.fc2.com
