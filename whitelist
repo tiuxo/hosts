@@ -1,0 +1,3 @@
+# Prevents some Google services from working, including web fonts, etc...
+gstaticadssl.l.google.com
+googleadapis.l.google.com
