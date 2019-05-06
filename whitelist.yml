@@ -1,0 +1,261 @@
+---
+# Commonly whitelisted domains
+# TODO: decide on further fields, write a parser for this
+
+- description: Android captive portal tests
+  hosts:
+    - android.clients.google.com
+    - clients3.google.com
+    - connectivitycheck.android.com
+    - connectivitycheck.gstatic.com
+
+- description: Apple ID
+  hosts:
+    - appleid.apple.com
+
+- description: Apple macOS and iOS captive portal tests
+  hosts:
+    - captive.apple.com
+    - gsp1.apple.com
+    - www.apple.com
+    - www.appleiphonecell.com
+
+- description: Apple Music
+  hosts:
+    - itunes.apple.com
+    - s.mzstatic.com
+
+- description: Bild DE
+  hosts:
+    - ec-ns.sascdn.com
+
+- description: Bing Maps
+  org: microsoft
+  hosts:
+    - dev.virtualearth.net
+    - ecn.dev.virtualearth.net
+    - t0.ssl.ak.dynamic.tiles.virtualearth.net
+    - t0.ssl.ak.tiles.virtualearth.net
+
+- description: Cheverolet
+  hosts:
+    - chevrolet.com
+
+- description: DirectTV
+  hosts:
+    - directvapplications.hb.omtrdc.net
+    - directvnow.com
+    - js.maxmind.c
+    - s.zkcdn.net
+- description: Dropbox
+  hosts:
+    - dl.dropboxusercontent.com
+    - ns1.dropbox.com
+    - ns2.dropbox.com
+
+- description: Epic Games store
+  hosts:
+    - tracking.epicgames.com
+
+- description: Facebook
+  hosts:
+    - api.facebook.com
+    - b-api.facebook.com fb.me
+    - b-graph.facebook.com
+    - cdn.fbsbx.com
+    - connect.facebook.com
+    - creative.ak.fbcdn.net
+    - edge-mqtt.facebook.com
+    - external-lhr0-1.xx.fbcdn.net
+    - external-lhr1-1.xx.fbcdn.net
+    - external-lhr10-1.xx.fbcdn.net
+    - external-lhr2-1.xx.fbcdn.net
+    - external-lhr3-1.xx.fbcdn.net
+    - external-lhr4-1.xx.fbcdn.net
+    - external-lhr5-1.xx.fbcdn.net
+    - external-lhr6-1.xx.fbcdn.net
+    - external-lhr7-1.xx.fbcdn.net
+    - external-lhr8-1.xx.fbcdn.net
+    - external-lhr9-1.xx.fbcdn.net
+    - fbcdn-creative-a.akamaihd.net
+    - graph.facebook.com
+    - mqtt.c10r.facebook.com
+    - portal.fb.com
+    - scontent-lhr3-1.xx.fbcdn.net
+    - scontent.fgdl5-1.fna.fbcdn.net
+    - scontent.xx.fbcdn.net
+    - star-mini.c10r.facebook.com
+    - star.c10r.facebook.com
+    - upload.facebook.com
+
+- description: Fox News
+  hosts:
+    - widget-cdn.rpxnow.com
+
+- description: GoDaddy webmail buttons
+  hosts:
+    - imagesak.secureserver.net
+
+- description: Google Chrome
+  hosts:
+    - dl.google.com
+
+- description: Google Mail
+  hosts:
+    - googleapis.l.google.com
+
+- description: Google Maps
+  hosts:
+    - clients2.google.com
+    - clients4.google.com
+
+- description: Google Play
+  hosts:
+    - android.clients.google.com
+
+- description: Google web fonts
+  hosts:
+    - gstaticadssl.l.google.com
+    - googleadapis.l.google.com
+
+- description: Images on Marketwatch.com
+  hosts:
+    - s.marketwatch.com
+
+- description: Jackbox.tv
+  hosts:
+    - www.google-analytics.com
+    - ssl.google-analytics.com
+
+- description: Microsoft bitlocker recovery
+  hosts:
+    - g.live.com
+
+- description: Microsoft web services
+  hosts:
+    - c.s-microsoft.com
+    - i.s-microsoft.com
+    - login.live.com
+    - login.microsoftonline.com
+    - officeclient.microsoft.com
+    - outlook.office365.com
+    - products.office.com
+
+- description: Microsoft Windows captive portal tests
+  hosts:
+    - ipv6.msftncsi.com
+    - msftncsi.com
+    - www.msftncsi.com
+
+- description: Microsoft Windows store
+  hosts:
+    - displaycatalog.mp.microsoft.com
+    - dl.delivery.mp.microsoft.com
+    - geo-prod.do.dsp.mp.microsoft.com
+
+- description: Microsoft Xbox Live
+  hosts:
+    - attestation.xboxlive.com
+    - cert.mgt.xboxlive.com
+    - client-s.gateway.messenger.live.com
+    - clientconfig.passport.net
+    - ctldl.windowsupdate.com
+    - def-vef.xboxlive.com
+    - device.auth.xboxlive.com
+    - eds.xboxlive.com
+    - help.ui.xboxlive.com
+    - licensing.xboxlive.com
+    - notify.xboxlive.com
+    - settings-win.data.microsoft.com
+    - title.auth.xboxlive.com
+    - title.mgt.xboxlive.com
+    - v10.events.data.microsoft.com
+    - v10.vortex-win.data.microsoft.com
+    - v20.events.data.microsoft.com
+    - www.msftncsi.com
+    - www.xboxlive.com
+    - xbox.ipv6.microsoft.com
+    - xboxexperiencesprod.experimentation.xboxlive.com
+    - xflight.xboxlive.com
+    - xkms.xboxlive.com
+    - xsts.auth.xboxlive.com
+
+- description: Motorola phone OS updates
+  hosts:
+    - appspot-preview.l.google.com
+
+- description: New York Times / NY Daily News videos
+  hosts:
+    - cdn.vidible.tv
+    - delivery.vidible.tv
+    - edge.api.brightcove.com
+    - img.vidible.tv
+    - videos.vidible.tv
+
+- description: Nvidia GeForce Experience
+  hosts:
+    - gfwsl.geforce.com
+
+- description: Plex
+  hosts:
+    - cpms.spop10.ams.plex.bz
+    - meta-db-worker02.pop.ric.plex.bz
+    - meta.plex.bz
+    - plex.tv
+    - proxy.plex.bz
+    - proxy02.pop.ord.plex.bz
+    - pubsub.plex.bz
+    - tvdb2.plex.tv
+    - tvthemes.pl
+    - tvthemes.plexapp.com.cdn.cloudflare.net
+
+- description: Plex metadata services
+  hosts:
+    - gravatar.com
+    - thetvdb.com
+    - themoviedb.com
+
+- description: Sonarr
+  hosts:
+    - apt.sonarr.tv
+    - download.sonarr.tv
+    - forums.sonarr
+    - services.sonarr.tv
+    - skyhook.sonarr.tv
+
+- description: Rockstar Games
+  hosts:
+    - prod.telemetry.ros.rockstargames.com
+
+- description: Skype
+  hosts:
+    - apps.skype.com
+    - client-s.gateway.messenger.live.com
+    - m.hotmail.com
+    - pricelist.skype.com
+    - s.gateway.messenger.live.com
+    - sa.symcb.com
+    - s{1..5}.symcb.com
+    - ui.skype.com
+
+- description: Spotify
+  hosts:
+    - apresolve.spotify.com
+    - spclient.wg.spotify.com
+
+- description: Target Weekly Ads
+  hosts:
+    - m.weeklyad.target.com
+    - weeklyad.target.com
+    - weeklyad.target.com.edgesuite.net
+
+- description: WatchESPN
+  hosts:
+    - fpdownload.adobe.com
+    - entitlement.auth.adobe.com
+    - livepassdl.conviva.com
+
+- description: YouTube history
+  hosts:
+    - s.youtube.com
+    - video-stats.l.google.com
