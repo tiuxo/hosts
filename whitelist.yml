@@ -1,8 +1,6 @@
 ---
-# Commonly whitelisted domains
-# TODO: decide on further fields, write a parser for this
-
-- description: Android captive portal tests
+- description: Android connectivity check / captive portal detection
+  organization: com.google
   hosts:
     - android.clients.google.com
     - clients3.google.com
@@ -10,10 +8,12 @@
     - connectivitycheck.gstatic.com
 
 - description: Apple ID
+  organization: com.apple
   hosts:
     - appleid.apple.com
 
-- description: Apple macOS and iOS captive portal tests
+- description: macOS and iOS connectivity check / captive portal detection
+  organization: com.apple
   hosts:
     - captive.apple.com
     - gsp1.apple.com
@@ -21,43 +21,51 @@
     - www.appleiphonecell.com
 
 - description: Apple Music
+  organization: com.apple
   hosts:
     - itunes.apple.com
     - s.mzstatic.com
 
 - description: Bild DE
+  organization: de.bild
   hosts:
     - ec-ns.sascdn.com
 
 - description: Bing Maps
-  org: microsoft
+  organization: com.microsoft
   hosts:
     - dev.virtualearth.net
     - ecn.dev.virtualearth.net
     - t0.ssl.ak.dynamic.tiles.virtualearth.net
     - t0.ssl.ak.tiles.virtualearth.net
 
-- description: Cheverolet
+- description: Chevrolet
+  organization: com.chevrolet
   hosts:
     - chevrolet.com
 
 - description: DirectTV
+  organization: com.directv
   hosts:
     - directvapplications.hb.omtrdc.net
     - directvnow.com
     - js.maxmind.c
     - s.zkcdn.net
+
 - description: Dropbox
+  organization: com.dropbox
   hosts:
     - dl.dropboxusercontent.com
     - ns1.dropbox.com
     - ns2.dropbox.com
 
 - description: Epic Games store
+  organization: com.epicgames
   hosts:
     - tracking.epicgames.com
 
 - description: Facebook
+  organization: com.facebook
   hosts:
     - api.facebook.com
     - b-api.facebook.com fb.me
@@ -89,49 +97,60 @@
     - upload.facebook.com
 
 - description: Fox News
+  organization: com.foxnews
   hosts:
     - widget-cdn.rpxnow.com
 
 - description: GoDaddy webmail buttons
+  organization: com.godaddy
   hosts:
     - imagesak.secureserver.net
 
 - description: Google Chrome
+  organization: com.google
   hosts:
     - dl.google.com
 
 - description: Google Mail
+  organization: com.google
   hosts:
     - googleapis.l.google.com
 
 - description: Google Maps
+  organization: com.google
   hosts:
     - clients2.google.com
     - clients4.google.com
 
 - description: Google Play
+  organization: com.google
   hosts:
     - android.clients.google.com
 
 - description: Google web fonts
+  organization: com.google
   hosts:
     - gstaticadssl.l.google.com
     - googleadapis.l.google.com
 
 - description: Images on Marketwatch.com
+  organization: com.marketwatch
   hosts:
     - s.marketwatch.com
 
 - description: Jackbox.tv
+  organization: tv.jackbox
   hosts:
     - www.google-analytics.com
     - ssl.google-analytics.com
 
 - description: Microsoft bitlocker recovery
+  organization: com.microsoft
   hosts:
     - g.live.com
 
 - description: Microsoft web services
+  organization: com.microsoft
   hosts:
     - c.s-microsoft.com
     - i.s-microsoft.com
@@ -142,18 +161,21 @@
     - products.office.com
 
 - description: Microsoft Windows captive portal tests
+  organization: com.microsoft
   hosts:
     - ipv6.msftncsi.com
     - msftncsi.com
     - www.msftncsi.com
 
 - description: Microsoft Windows store
+  organization: com.microsoft
   hosts:
     - displaycatalog.mp.microsoft.com
     - dl.delivery.mp.microsoft.com
     - geo-prod.do.dsp.mp.microsoft.com
 
 - description: Microsoft Xbox Live
+  organization: com.microsoft
   hosts:
     - attestation.xboxlive.com
     - cert.mgt.xboxlive.com
@@ -181,10 +203,12 @@
     - xsts.auth.xboxlive.com
 
 - description: Motorola phone OS updates
+  organization: com.motorola
   hosts:
     - appspot-preview.l.google.com
 
-- description: New York Times / NY Daily News videos
+- description: New York Times videos
+  organization: com.nytimes
   hosts:
     - cdn.vidible.tv
     - delivery.vidible.tv
@@ -193,10 +217,12 @@
     - videos.vidible.tv
 
 - description: Nvidia GeForce Experience
+  organization: com.nvidia
   hosts:
     - gfwsl.geforce.com
 
 - description: Plex
+  organization: tv.plex
   hosts:
     - cpms.spop10.ams.plex.bz
     - meta-db-worker02.pop.ric.plex.bz
@@ -210,12 +236,14 @@
     - tvthemes.plexapp.com.cdn.cloudflare.net
 
 - description: Plex metadata services
+  organization: tv.plex
   hosts:
     - gravatar.com
     - thetvdb.com
     - themoviedb.com
 
 - description: Sonarr
+  organization: tv.sonarr
   hosts:
     - apt.sonarr.tv
     - download.sonarr.tv
@@ -224,10 +252,12 @@
     - skyhook.sonarr.tv
 
 - description: Rockstar Games
+  organization: com.rockstargames
   hosts:
     - prod.telemetry.ros.rockstargames.com
 
 - description: Skype
+  organization: com.microsoft
   hosts:
     - apps.skype.com
     - client-s.gateway.messenger.live.com
@@ -239,23 +269,27 @@
     - ui.skype.com
 
 - description: Spotify
+  organization: com.microsoft
   hosts:
     - apresolve.spotify.com
     - spclient.wg.spotify.com
 
 - description: Target Weekly Ads
+  organization: com.target
   hosts:
     - m.weeklyad.target.com
     - weeklyad.target.com
     - weeklyad.target.com.edgesuite.net
 
 - description: WatchESPN
+  organization: com.espn
   hosts:
     - fpdownload.adobe.com
     - entitlement.auth.adobe.com
     - livepassdl.conviva.com
 
 - description: YouTube history
+  organization: com.google
   hosts:
     - s.youtube.com
     - video-stats.l.google.com
