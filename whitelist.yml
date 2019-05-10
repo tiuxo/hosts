@@ -39,6 +39,11 @@
     - t0.ssl.ak.dynamic.tiles.virtualearth.net
     - t0.ssl.ak.tiles.virtualearth.net
 
+- description: Buffer App
+  organization: com.buffer
+  hosts:
+    - bufferapp.com
+
 - description: Chevrolet
   organization: com.chevrolet
   hosts:
