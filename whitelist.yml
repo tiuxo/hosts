@@ -221,6 +221,11 @@
     - img.vidible.tv
     - videos.vidible.tv
 
+- description: Narvar
+  organization: com.narvar
+  hosts:
+    - narvar.com
+
 - description: Nvidia GeForce Experience
   organization: com.nvidia
   hosts:
