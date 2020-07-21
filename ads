@@ -307,6 +307,7 @@
 0.0.0.0 ads.mediams.mb.softbank.jp
 0.0.0.0 ads.mediasmart.es
 0.0.0.0 ads.metropolis.co.jp
+0.0.0.0 ads.missena.io
 0.0.0.0 ads.mixi.jp
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.mp.mydas.mobi
