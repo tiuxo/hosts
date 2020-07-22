@@ -1,4 +1,3 @@
-0.0.0.0 www.cyber-ad01.cc
 0.0.0.0 100234.advision-adnw.jp
 0.0.0.0 100291.adnico.jp
 0.0.0.0 100602.advision-adnw.jp
@@ -357,6 +356,7 @@
 0.0.0.0 adtechjp.com
 0.0.0.0 adticker.net
 0.0.0.0 adtilt.com
+0.0.0.0 adtrack.appcpi.net
 0.0.0.0 adtrack.king.com
 0.0.0.0 adtracker.inmobi.com
 0.0.0.0 adtracker.jp
@@ -435,9 +435,13 @@
 0.0.0.0 an.mainichi.jp
 0.0.0.0 ana2.tatsumi-sys.jp
 0.0.0.0 analysiswebtool.com
+0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics.cocolog-nifty.com
+0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.grupogodo.com
+0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.qlook.net
+0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analyzer.fc2.com
 0.0.0.0 analyzer2.fc2.com
 0.0.0.0 analyzer5.fc2.com
@@ -492,6 +496,7 @@
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.unthem.com
 0.0.0.0 api.webpush.jp
+0.0.0.0 apiadapter.ad5track.com
 0.0.0.0 aplkp.valuecommerce.com
 0.0.0.0 app-adforce.jp
 0.0.0.0 app-c.net
@@ -942,6 +947,7 @@
 0.0.0.0 erotube69.pw
 0.0.0.0 et.w.inmobi.com
 0.0.0.0 etc.atja.jp
+0.0.0.0 eu-track.inside-graph.com
 0.0.0.0 eurocentrichandbags.com
 0.0.0.0 evelynswonderland.com
 0.0.0.0 events.appsflyer.com
@@ -990,6 +996,7 @@
 0.0.0.0 g2.072m.com
 0.0.0.0 g2.gumgum.com
 0.0.0.0 gad.shinobi.jp
+0.0.0.0 gameanalysis.appcpi.net
 0.0.0.0 gamefeat.net
 0.0.0.0 gamewallet.jp
 0.0.0.0 gardeningst.men
@@ -1461,6 +1468,7 @@
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 my-softbank-jp.com 
 0.0.0.0 my.mobfox.com
+0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybgbgclojp.com
 0.0.0.0 mycdn2.co
 0.0.0.0 mydas.mobi
@@ -1611,6 +1619,7 @@
 0.0.0.0 projectpoi.com
 0.0.0.0 promotionalads.yahoo.co.jp
 0.0.0.0 proparm.jp
+0.0.0.0 propeller-tracking.com
 0.0.0.0 prscripts.com
 0.0.0.0 ps-jp.amazon-adsystem.com
 0.0.0.0 ps-us.amazon-adsystem.com
@@ -1978,11 +1987,14 @@
 0.0.0.0 track.richmediaads.com
 0.0.0.0 track.somewrite.jp
 0.0.0.0 track.tenjin.io
+0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.iws.vc
 0.0.0.0 tracker.kantan-access.com
 0.0.0.0 tracker.mca-analytics.com
+0.0.0.0 tracker.remp.impresa.pt
 0.0.0.0 trackfeed.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
+0.0.0.0 tracking.yohoads.com
 0.0.0.0 trackword.net
 0.0.0.0 tradedoubler.com
 0.0.0.0 traffic-staff.com
@@ -2087,6 +2099,7 @@
 0.0.0.0 www.buzzimpress.jp
 0.0.0.0 www.clicksgear.com
 0.0.0.0 www.clicktx.jp
+0.0.0.0 www.cyber-ad01.cc
 0.0.0.0 www.doubleclick.ne.jp
 0.0.0.0 www.g-af.com
 0.0.0.0 www.gamefeat.net
