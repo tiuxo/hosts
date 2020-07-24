@@ -1390,6 +1390,7 @@
 0.0.0.0 mb-click.jp
 0.0.0.0 mcgm.sakura.ne.jp
 0.0.0.0 mcnt.jp
+0.0.0.0 mctd22d-xfy4kdg18w8cmd9bvhsq.device.marketingcloudapis.com
 0.0.0.0 md.m-space.jp
 0.0.0.0 mdn2015x1.com
 0.0.0.0 mdpl-jp.com
@@ -1991,6 +1992,7 @@
 0.0.0.0 tracker.iws.vc
 0.0.0.0 tracker.kantan-access.com
 0.0.0.0 tracker.mca-analytics.com
+0.0.0.0 tracker.publico.pt
 0.0.0.0 tracker.remp.impresa.pt
 0.0.0.0 trackfeed.com
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
