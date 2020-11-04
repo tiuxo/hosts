@@ -503,6 +503,7 @@
 0.0.0.0 app-install-world.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app.adjust.com
+0.0.0.0 app.adjust.net.in
 0.0.0.0 appad.click
 0.0.0.0 appad02.mbsp.jp
 0.0.0.0 appier.mobi
