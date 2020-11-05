@@ -455,7 +455,6 @@
 0.0.0.0 android.public.astrsk.net
 0.0.0.0 androidads20.adcolony.com
 0.0.0.0 androidsdk.ads.mp.mydas.mobi
-0.0.0.0 animate.adobe.com
 0.0.0.0 aniview.com
 0.0.0.0 anonymousdemographics.com
 0.0.0.0 antennash.com
