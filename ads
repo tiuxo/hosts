@@ -1762,6 +1762,7 @@
 0.0.0.0 s11.j-a-net.jp
 0.0.0.0 s13.j-a-net.jp
 0.0.0.0 s2.nend.net
+0.0.0.0 s3-analytics-events.easybrain.com
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3.mobile.val.jp
 0.0.0.0 s7.addthis.com
