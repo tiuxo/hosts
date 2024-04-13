@@ -183,7 +183,7 @@
 0.0.0.0 adjust-net.jp
 0.0.0.0 adk2x.com
 0.0.0.0 adlantis.jp
-0.0.0.0 adlib.cptv.jp 
+0.0.0.0 adlib.cptv.jp
 0.0.0.0 adlove.jp
 0.0.0.0 adlpo.com
 0.0.0.0 adm.fwmrm.net
@@ -1128,13 +1128,13 @@
 0.0.0.0 mxmkitchen.com
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
-0.0.0.0 my-softbank-jp.com 
+0.0.0.0 my-softbank-jp.com
 0.0.0.0 my.mobfox.com
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybgbgclojp.com
 0.0.0.0 mycdn2.co
 0.0.0.0 mydas.mobi
-0.0.0.0 mysoftbank-jp.com 
+0.0.0.0 mysoftbank-jp.com
 0.0.0.0 n-ad.work
 0.0.0.0 n.afnet.jp
 0.0.0.0 n.pc1ads.com
